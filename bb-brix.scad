@@ -1,5 +1,6 @@
-include <roundcubes.scad>;
 include <vars.scad>;
+
+use <roundcubes.scad>;
 
 assert(_size >= 10);
 assert(_height >= 10);
