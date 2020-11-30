@@ -2,6 +2,8 @@
 
 Baby/toddler/kid-friendly building bricks, for fun!
 
+![bbBrix](https://i.postimg.cc/g2hsxyXn/PXL-20201130-142941332-MP.jpg)
+
 ## Overview
 
 Bricks are generated via OpenSCAD. The primary file, `bb-brix.scad` can generate bricks of any size including "L" and "T" shapes, baseplates, and "squares". Command-line variables are supported. See `make-stls.sh` and the end of `bb-brix.scad` for more information. Or you can simply download the pre-generated STLs under `/out/stl`.
