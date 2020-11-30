@@ -1,0 +1,11 @@
+_size = 30;
+_height = 30;
+_baseHeight = 5;
+_wall = 3;
+_wall_x2 = _wall * 2;
+_gap = .25;
+_nubHeight = 8;
+_nubGap = .375;
+_nubOffset = _wall + _nubGap;
+_nubOffset_x2 = _nubOffset * 2;
+_nubSize = _size - _nubOffset_x2;
