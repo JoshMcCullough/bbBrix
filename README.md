@@ -28,3 +28,7 @@ Do as you wish, but these settings produce good quality, sturdy bricks:
 - **infill density** -- 0%
 - **speed** -- as fast as possible since the shapes are very simple and non-intricate.
 - **support** -- off.
+
+## Attributions
+
+- roundcubes.scad: https://github.com/speendo/OpenSCAD-Round-Primitives

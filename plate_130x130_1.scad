@@ -1,5 +1,5 @@
-include <../bb-brix.scad>;
-include <../vars.scad>;
+include <bb-brix.scad>;
+include <vars.scad>;
 
 _padding = 3;
 _paddedSize = _size + _padding;

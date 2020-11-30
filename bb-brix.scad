@@ -1,4 +1,4 @@
-include <./lib/roundcubes.scad>;
+include <roundcubes.scad>;
 include <vars.scad>;
 
 assert(_size >= 10);
