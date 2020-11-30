@@ -1,6 +1,6 @@
-# bbBrix: A DIY Duplo Knock-off
+# bbBrix: A DIY Brick-building Toy
 
-Baby/toddler-friendly building bricks, for fun!
+Baby/toddler/kid-friendly building bricks, for fun!
 
 ## Overview
 
@@ -10,7 +10,7 @@ Bricks are generated via OpenSCAD. The primary file, `bb-brix.scad` can generate
 
 Standard bricks in common sizes/shapes are available under `/out/stl` -- simply download the STLs you'd like to create, slice them, and print them. File an issue if you feel other "common" sizes/shapes should be included.
 
-### Plates
+## Plates
 
 There are SCAD files to generate "plates" (e.g. a bunch of pieces at once) under `/plates`, and related exported STLs under `/out/stl`. Use these to get a good set of common sized/shaped blocks, but note that they will take a while to print.
 
